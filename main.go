@@ -25,8 +25,8 @@ func main() {
 		if x == "y" {
 			continue
 		}
-		break //end
-	} //break
+		break
+	}
 }
 func userInput() (string, string, float64) {
 	var first_val string
